@@ -1,0 +1,14 @@
+{
+  "name": "benchmark-hash",
+  "version": "1.0.0",
+  "description": "A benchmark suite for comparing singly vs doubly hashed strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anish Khale",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
